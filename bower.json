@@ -1,7 +1,7 @@
 {
   "name": "font-roboto",
-  "version": "1.0.1-hphis",
-  "description": "An HTML import for Roboto",
+  "version": "1.0.1",
+  "description": "An HTML import for Roboto with font files served directly",
   "authors": [
     "The Polymer Authors"
   ],
